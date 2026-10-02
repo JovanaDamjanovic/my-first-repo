@@ -1,0 +1,7 @@
+Student Note
+
+First Name: Jovana
+Last Name: Damjanovic
+Date: 02.10.2026
+
+This file was created as part of my Git and GitHub homework assignment.
